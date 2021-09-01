@@ -21,7 +21,7 @@ public class Calculadora extends JFrame {
 	public JPanel jp1 = new JPanel();  //painel
 	public JTextField jtf1 = new JTextField(); //caixa de texto
 	
-	//botações de 0 - 9
+	//botões de 0 - 9
 	public JButton jb0 = new JButton("0");
 	public JButton jb1 = new JButton("1");
 	public JButton jb2 = new JButton("2");
